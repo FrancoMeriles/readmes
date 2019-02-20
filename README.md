@@ -32,14 +32,14 @@ WP_HOME=http://25watts.local.com.ar
 WP_SITEURL=${WP_HOME}/wp
 
 # Generate your keys here: https://roots.io/salts.html
-AUTH_KEY='u<ZE*(cR?JaIC!3wtWZSqcLwKbXD<h;o-w8K<P7Zz4V0pE#K?Tw#vKt8DYH0Q-{q'
-SECURE_AUTH_KEY='a,}$0.!BokyXZ[r0gJDNf#B;X}K,t}l[+qDGr>j83c0CuXUe*7K%w(3[A!,K+A}N'
-LOGGED_IN_KEY='nF{_^P8RiAxF16N;eso_^Mm<)AGr2l(L(G=ZSUEihO77mK:1ILk,OqDt67%k/g!?'
-NONCE_KEY='i3Bt&J-y5rCdPAv)$&rl-h$h0d(P(c5iC[3w=nX2ajX^-J1aMCriZ|mzK&EjeV17'
-AUTH_SALT='K/-I<o&*|bzZsWQCE=UH?/;:gV/u2*l(P4T9,X@Pjt3=zQEVFI&ehQ#)y=YV+!XR'
-SECURE_AUTH_SALT='&{yBM|<}ccB);{X$:;bty%l<H43}s|Up{r|^?;JKQ*]TEw3V1T5-vJErE7;pE76#'
-LOGGED_IN_SALT='qc;td-p%Ds:x!c9F*#.7SQpA[KCF%Y_J<[]7L|zrQQKQp`ex(As;T$_qh6kTLB*O'
-NONCE_SALT='z>g*L!RZqgi*N=>/urCcH=Ta!ZP+B=^qiZ7S?Y[TwXUaNY(wIVv2g/5AE>c0TX5P'
+AUTH_KEY=''
+SECURE_AUTH_KEY=''
+LOGGED_IN_KEY=''
+NONCE_KEY=''
+AUTH_SALT=''
+SECURE_AUTH_SALT='
+LOGGED_IN_SALT=''
+NONCE_SALT=''
 ```
 
 3. Acceder al admin a trave de `https://25watts.local.com.ar/wp/wp-admin`

@@ -55,7 +55,7 @@ NONCE_SALT=''
 ### Requerimientos
 
 - WordPress >= 4.7
-- PHP >= 7.1.3 (with php-mbstring enabled)
+- PHP >= 7.1.3
 - [Composer](https://getcomposer.org/) >= 8.0.0
 - [Nodejs](https://nodejs.org/en/) 
 - [Yarn](https://yarnpkg.com/en/docs/install)
